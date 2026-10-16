@@ -217,12 +217,13 @@ h4{
 
 h5{
     position: absolute;
-    top:415%;
+    top:422%;
     left: 35%;
     font-size:30px;
     font-size:40px
 
 }
+
 .ccurry {
     width: 280px;
     height:300px;
@@ -326,22 +327,164 @@ h5{
 }
 
 
+h6{
+    position: absolute;
+    top:680%;
+    left: 33%;
+    font-size:30px;
+    font-size:40px
+
+}
+
+
+.biryani {
+    width: 280px;
+    height:300px;
+    background-color: #fae7d3;
+    border-radius: 12px;
+    text-align: center;
+    position: absolute;
+    top:3910px;
+    left:140px;
+}
+
+.biryani img {
+    width: 230px;
+    height:200px;
+    border-radius: 10px;
+}
+
+.chin{
+    width: 280px;
+    height:300px;
+    background-color: #fae7d3;
+    border-radius: 12px;
+    text-align: center;
+    position: absolute;
+    top:3910px;
+    left:590px;
+}
+
+.chin img {
+    width: 230px;
+    height:200px;
+    border-radius: 10px;
+}
+
+.sekuwa {
+    width: 280px;
+    height:300px;
+    background-color: #fae7d3;
+    border-radius: 12px;
+    text-align: center;
+    position: absolute;
+    top:4300px;
+    left:140px;
+}
+
+.sekuwa img {
+    width: 230px;
+    height:200px;
+    border-radius: 10px;
+}
+
+.vegrice{
+    width: 280px;
+    height:300px;
+    background-color: #fae7d3;
+    border-radius: 12px;
+    text-align: center;
+    position: absolute;
+    top:4300px;
+    left:590px;
+}
+
+.vegrice img {
+    width: 230px;
+    height:200px;
+    border-radius: 10px;
+}
+
+
+.rajma {
+    width: 280px;
+    height:300px;
+    background-color: #fae7d3;
+    border-radius: 12px;
+    text-align: center;
+    position: absolute;
+    top:5000px;
+    left:140px;
+}
+
+.rajma img {
+    width: 230px;
+    height:200px;
+    border-radius: 10px;
+}
+
+
+.fishfry{
+    width: 280px;
+    height:300px;
+    background-color: #fae7d3;
+    border-radius: 12px;
+    text-align: center;
+    position: absolute;
+    top:4655px;
+    left:590px;
+}
+
+.fishfry img {
+    width: 230px;
+    height:200px;
+    border-radius: 10px;
+}
+
+
+.grillc {
+    width: 280px;
+    height:300px;
+    background-color: #fae7d3;
+    border-radius: 12px;
+    text-align: center;
+    position: absolute;
+    top:4660px;
+    left:140px;
+}
+
+.grillc img {
+    width: 230px;
+    height:200px;
+    border-radius: 10px;
+}
 
 
 
 
+.choila{
+    width: 280px;
+    height:300px;
+    background-color: #fae7d3;
+    border-radius: 12px;
+    text-align: center;
+    position: absolute;
+    top:5000px;
+    left:590px;
+}
 
+.choila img {
+    width: 230px;
+    height:200px;
+    border-radius: 10px;
+}
 
-
-
-
-
-
-
-
-
-
-
+h7{
+    font-size:17px;
+    position: absolute;
+    top:1020%;
+    left:20%
+}
 
 
 
