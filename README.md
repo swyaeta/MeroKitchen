@@ -12,3 +12,13 @@
 #### Step-by-step cooking procedures
 #### Simple navigation between the homepage and recipe pages
 #### Information about preparation and cooking times
+
+
+
+## How to Run Locally:
+1. Clone or download this repository.
+2. Open the project folder in Visual Studio Code.
+3. Open `index.html` directly in a web browser, or use the Live Server extension.
+4. Browse the homepage and open individual recipe pages.
+
+## No additional dependencies are required.
