@@ -1,20 +1,26 @@
+
+/* this is for the main heading */
 h1{
     font-size:50px;
     color: black;
     margin-top:50px
 }
 
+/* this is for the small lines/subheading*/
 p{
     font-size:17px;
     margin-top:-15px
 
 }
+
+/* this is for the main bg body*/
 body{
     text-align: center;
     background-color: #FFFF;
     font-family: cursive;
 }
 
+/* this is for my despriction*/
 h2{
     font-size:18px;
     margin-top:100px;
@@ -24,12 +30,14 @@ h2{
     left:50px
 }
 
+/* this is for my every recipe heading*/
 h3{
     font-size:30px;
     color:black;
 
 }
 
+/* these 2 is for my momo (my fav) designing*/
 .momo {
     width: 280px;
     height:300px;
@@ -47,11 +55,13 @@ h3{
     border-radius: 10px;
 }
 
+/* this is to blend the link in the box*/
 a {
     text-decoration: none;
     color: #5a3525;
 }
 
+/* this two is for the design of chicken roast*/
 .roast {
     width: 280px;
     height:300px;
@@ -69,6 +79,7 @@ a {
     border-radius: 10px;
 }
 
+/* these are for the chicken chilli*/
 .chilli {
     width: 280px;
     height:300px;
@@ -86,6 +97,7 @@ a {
     border-radius: 10px;
 }
 
+/* this is the heading for my starters recipes*/
 h4{
     position: absolute;
     top:70%;
@@ -95,6 +107,7 @@ h4{
 
 }
 
+/* these are for the beijing chicken*/
 .bej {
     width: 280px;
     height:300px;
@@ -112,6 +125,7 @@ h4{
     border-radius: 10px;
 }
 
+/* these are for the chicken nuggets*/
 .nuggets {
     width: 280px;
     height:300px;
@@ -129,6 +143,7 @@ h4{
     border-radius: 10px;
 }
 
+/* these for the paneer pakoda*/
 .pane {
     width: 280px;
     height:300px;
@@ -146,6 +161,7 @@ h4{
     border-radius: 10px;
 }
 
+/* these for the pita sandwich*/
 .pita {
     width: 280px;
     height:300px;
@@ -163,6 +179,7 @@ h4{
     border-radius: 10px;
 }
 
+/* this is for the french fries*/
 .fry {
     width: 280px;
     height:300px;
@@ -180,6 +197,7 @@ h4{
     border-radius: 10px;
 }
 
+/* this is for the chatpatey(best dish in the world*/
 .chatpat {
     width: 280px;
     height:300px;
@@ -197,7 +215,7 @@ h4{
     border-radius: 10px;
 }
 
-
+/* this for the aalu neemki*/
 .aalo {
     width: 280px;
     height:300px;
@@ -215,6 +233,7 @@ h4{
     border-radius: 10px;
 }
 
+/* this is for my curry heading*/
 h5{
     position: absolute;
     top:422%;
@@ -224,6 +243,7 @@ h5{
 
 }
 
+/* these are for my chicken curry*/
 .ccurry {
     width: 280px;
     height:300px;
@@ -241,6 +261,7 @@ h5{
     border-radius: 10px;
 }
 
+/* this is the second curry, these are for matar paneer*/
 .matarp {
     width: 280px;
     height:300px;
@@ -258,6 +279,7 @@ h5{
     border-radius: 10px;
 }
 
+/* these are for palak paneer*/
 .palakp {
     width: 280px;
     height:300px;
@@ -275,6 +297,7 @@ h5{
     border-radius: 10px;
 }
 
+/* these are for the egg curry*/
 .Eggc {
     width: 280px;
     height:300px;
@@ -292,6 +315,7 @@ h5{
     border-radius: 10px;
 }
 
+/* these are for the mutton curry*/
 .muttonc {
     width: 280px;
     height:320px;
@@ -309,6 +333,7 @@ h5{
     border-radius: 10px;
 }
 
+/* these are for my cauli curry*/
 .caulio {
     width: 280px;
     height:300px;
@@ -326,7 +351,7 @@ h5{
     border-radius: 10px;
 }
 
-
+/* this is for my main dish heading*/
 h6{
     position: absolute;
     top:680%;
@@ -336,7 +361,7 @@ h6{
 
 }
 
-
+/* these are for the biryani */
 .biryani {
     width: 280px;
     height:300px;
@@ -354,6 +379,7 @@ h6{
     border-radius: 10px;
 }
 
+/* these are for the chinese choupsey*/
 .chin{
     width: 280px;
     height:300px;
@@ -371,6 +397,7 @@ h6{
     border-radius: 10px;
 }
 
+/* these are for the sekuwa*/
 .sekuwa {
     width: 280px;
     height:300px;
@@ -388,6 +415,7 @@ h6{
     border-radius: 10px;
 }
 
+/* these are for the fried veg rice*/
 .vegrice{
     width: 280px;
     height:300px;
@@ -405,7 +433,7 @@ h6{
     border-radius: 10px;
 }
 
-
+/* these are the rajma*/
 .rajma {
     width: 280px;
     height:300px;
@@ -423,7 +451,7 @@ h6{
     border-radius: 10px;
 }
 
-
+/* this is for the fishfry recipe box styling*/
 .fishfry{
     width: 280px;
     height:300px;
@@ -441,7 +469,7 @@ h6{
     border-radius: 10px;
 }
 
-
+/* these are for the grilled chicken box design*/
 .grillc {
     width: 280px;
     height:300px;
@@ -459,9 +487,7 @@ h6{
     border-radius: 10px;
 }
 
-
-
-
+/* these are for the soyabean choila*/
 .choila{
     width: 280px;
     height:300px;
@@ -479,13 +505,141 @@ h6{
     border-radius: 10px;
 }
 
+/* this is for the heading of the desert*/
+.h8{
+    font-size:46px;
+    position: absolute;
+    top:1010%;
+    left:35%;
+    font-family: cursive;
+    color:black
+}
+
+/* these are for the rasbari box*/
+.rasbari{
+    width: 280px;
+    height:300px;
+    background-color: #fae7d3;
+    border-radius: 12px;
+    text-align: center;
+    position: absolute;
+    top:5600px;
+    left:590px;
+}
+
+.rasbari img {
+    width: 230px;
+    height:200px;
+    border-radius: 10px;
+}
+
+/* this are for kurma recipe box (outer)*/
+.kurma{
+    width: 280px;
+    height:300px;
+    background-color: #fae7d3;
+    border-radius: 12px;
+    text-align: center;
+    position: absolute;
+    top:5600px;
+    left:140px;
+}
+
+.kurma img {
+    width: 230px;
+    height:200px;
+    border-radius: 10px;
+}
+
+/* these are for the yomari box*/
+.yomari{
+    width: 280px;
+    height:300px;
+    background-color: #fae7d3;
+    border-radius: 12px;
+    text-align: center;
+    position: absolute;
+    top:5950px;
+    left:590px;
+}
+
+.yomari img {
+    width: 230px;
+    height:200px;
+    border-radius: 10px;
+}
+
+/* this is for carrot pudding box*/
+.ja{
+    width: 280px;
+    height:300px;
+    background-color: #fae7d3;
+    border-radius: 12px;
+    text-align: center;
+    position: absolute;
+    top:5950px;
+    left:140px;
+}
+
+.ja img {
+    width: 230px;
+    height:200px;
+    border-radius: 10px;
+}
+
+/* these are for kheer box styling( rice pudding)*/
+.khir{
+    width: 280px;
+    height:300px;
+    background-color: #fae7d3;
+    border-radius: 12px;
+    text-align: center;
+    position: absolute;
+    top:6350px;
+    left:590px;
+}
+
+.khir img {
+    width: 230px;
+    height:200px;
+    border-radius: 10px;
+}
+
+/* these are box styling for thekuwa*/
+.thek{
+    width: 280px;
+    height:300px;
+    background-color: #fae7d3;
+    border-radius: 12px;
+    text-align: center;
+    position: absolute;
+    top:6350px;
+    left:140px;
+}
+
+.thek img {
+    width: 230px;
+    height:200px;
+    border-radius: 10px;
+}
+
+
+/* this to give credit to my dad*/
 h7{
     font-size:17px;
     position: absolute;
-    top:1020%;
-    left:20%
+    top:1270%;
+    left:18%
 }
-
+/* his yt channel name y'll :)))*/
+.credit{
+    font-size:23px;
+    position: absolute;
+    top:1290%;
+    left:35%;
+    color:black;
+    font-family: cursive;
+}
 
 
 
