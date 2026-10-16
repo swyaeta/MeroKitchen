@@ -37,4 +37,8 @@ and many more
 3. Open `index.html` directly in a web browser, or use the Live Server extension.
 4. Browse the homepage and open individual recipe pages.
 
+### Languges used:
+#### Html
+#### css
+
 
