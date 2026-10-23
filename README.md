@@ -7,7 +7,7 @@
 
 
 ### Demo Link:
-
+https://swyaeta.github.io/MeroKitchen/
 ## Features
 
 #### Collection of starters, curries, main dishes, and desserts
